@@ -6,7 +6,7 @@ This project explores a water summary dataset from a fictional country, Maji Ndo
 
 About the data:
 
-hour_of_day - The hour of day at the time_of_record. This will help us aggregate by the hour of the day.
+hour_of_day - The hour of day at the time_of_record. This will help us aggregate by the hour of the day./n
 day_of_week - The day of the week from the time_of_record. This will help us aggregate by the day of the week.
 percent_male - The percentage of men in the queue at the time_of_record.
 percent_female - The percentage of men in the queue at the time_of_record.
