@@ -3,6 +3,7 @@
 Project Overview:
 
 This project explores a water summary dataset from a fictional country, Maji Ndogo, using Power BI. The goal is to uncover hidden patterns and extract actionable insights that inform strategies for improving water quality, accessibility, and sustainability. Through this analysis, we aim to propose data-driven solutions for addressing water challenges
+
 About the data:
 
 hour_of_day - The hour of day at the time_of_record. This will help us aggregate by the hour of the day.
